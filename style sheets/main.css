@@ -1,0 +1,8 @@
+:root {
+    --main_color: rgb(232, 212, 98);
+    --background_color: rgb(53, 177, 127);
+}
+.body {
+    background-color: var(--background_color);
+    margin: 0%;
+}
