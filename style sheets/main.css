@@ -1,3 +1,9 @@
+/*import the main typeface*/@import url("https://use.typekit.net/ath3ckx.css");
+* {
+    font-family: study,serif;
+    font-weight: 300;
+    font-style: normal;
+}
 :root {
     --main_color: rgb(232, 212, 98);
     --background_color: rgb(53, 177, 127);
@@ -6,4 +12,11 @@
     background-color: var(--background_color);
     margin: 0%;
     color: var(--main_color);
+}
+/* header classes */
+.header-text {
+    color: var(--main_color);
+    width: 50%;
+    text-align: center;
+    float: left;
 }
