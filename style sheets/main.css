@@ -14,9 +14,16 @@
     margin: 0%;
     color: var(--main_color);
 }
-/* header classes */
-.header-text {
-    color: var(--main_color);
-    width: 50%;
-    text-align: center;
+/* desktop responsive */
+@media only screen and (min-width: 800px) {
+    /* header classes */
+    .indexHeader {
+        margin-left: 10%;
+        margin-right: 10%;   
+    }
+    .header-text {
+        color: var(--main_color);
+        width: 50%;
+        text-align: center;
+    }
 }
