@@ -3,6 +3,7 @@
     font-family: study,serif;
     font-weight: 300;
     font-style: normal;
+    text-align: center;
 }
 :root {
     --main_color: rgb(232, 212, 98);
