@@ -6,8 +6,8 @@
     text-align: center;
 }
 :root {
-    --main_color: rgb(36, 36, 36);
-    --background_color: white;
+    --main_color: white;
+    --background_color: rgb(36, 36, 36);
 }
 .body {
     background-color: var(--background_color);
