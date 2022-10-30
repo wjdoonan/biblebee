@@ -7,7 +7,7 @@
 }
 :root {
     --main_color: rgb(36, 36, 36);
-    --background_color: rgb(142, 197, 175);
+    --background_color: white;
 }
 .body {
     background-color: var(--background_color);
