@@ -8,6 +8,7 @@
 :root {
     --main_color: white;
     --background_color: rgb(36, 36, 36);
+    --off_color: rgb(80, 80, 80);
 }
 .body {
     background-color: var(--background_color);
@@ -19,6 +20,11 @@
     color: var(--background_color);
     border: 1px var(--background_color);
     border-radius: 10%;
+    text-decoration: none;
+}
+.navLink:hover {
+    color: var(--off_color);
+    border: var(--off_color);
 }
 /* desktop responsive */
 @media only screen and (min-width: 800px) {
