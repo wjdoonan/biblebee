@@ -23,7 +23,14 @@
     }
     .header-text {
         color: var(--main_color);
-        width: 50%;
+        width: 20%;
         text-align: center;
+        margin-left: 10%;
+    }
+    .header {
+        background-color: var(--main_color);
+        margin: 0%;
+        color: var(--background_color);
+        width: 100%;
     }
 }
