@@ -14,6 +14,12 @@
     margin: 0%;
     color: var(--main_color);
 }
+/* main header classes */
+.navLink {
+    color: var(--background_color);
+    border: 1px var(--background_color);
+    border-radius: 10%;
+}
 /* desktop responsive */
 @media only screen and (min-width: 800px) {
     /* header classes */
