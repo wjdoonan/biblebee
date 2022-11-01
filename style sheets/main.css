@@ -18,7 +18,7 @@
 /* main header classes */
 .navLink {
     color: var(--background_color);
-    border: 1px var(--background_color);
+    border: 1px var(--background_color) solid;
     border-radius: 10%;
     text-decoration: none;
 }
