@@ -42,7 +42,7 @@
     .header {
         background-color: var(--main_color);
         margin: 0%;
-        margin-top: 0px;
+        margin-top: -10px;
         color: var(--background_color);
         width: 100%;
     }
