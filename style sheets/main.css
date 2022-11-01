@@ -18,9 +18,8 @@
 /* main header classes */
 .navLink {
     color: rgb(19, 28, 56);
-    border: 1px var(--background_color) solid;
     border-radius: 10%;
-    text-decoration: none;
+    text-decoration: underline;
 }
 .navLink:hover {
     color: var(--off_color);
