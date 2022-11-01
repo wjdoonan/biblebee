@@ -45,5 +45,6 @@
         margin-top: -10px;
         color: var(--background_color);
         width: 100%;
+        padding-bottom: 5%;
     }
 }
