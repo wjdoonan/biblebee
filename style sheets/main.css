@@ -47,3 +47,27 @@
         padding-bottom: 12px;
     }
 }
+@media only screen and (max-width: 800px) {
+    /* header classes */
+    .indexHeader {
+        margin-left: 10%;
+        margin-right: 10%;   
+    }
+    .header-text {
+        color: var(--main_color);
+        width: 20%;
+        text-align: center;
+        margin-left: 10%;
+    }
+    .header {
+        background-color: var(--main_color);
+        margin: 0%;
+        margin-top: -20px;
+        color: var(--background_color);
+        width: 100%;
+        padding-bottom: 12px;
+    }
+    #nav {
+        display: none;
+    }
+}
